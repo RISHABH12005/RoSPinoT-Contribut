@@ -3,7 +3,7 @@
 
 *Your contributions are hereby solemnly welcomed .*
 
-# Contribution Guidelines
+# Guidelines
 
 **No absurd type of contribution will be entertained**
 
